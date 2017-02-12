@@ -1,0 +1,31 @@
+body {
+  padding: 20px;
+}
+
+/*td:first-of-type, td:first-of-type > div {
+  height: 150px;
+  width: 150px;
+}*/
+
+
+th,td {
+  width: 25%;
+}
+
+.sub-tab-indication {
+  font-size: 10px;
+}
+
+td {
+  padding: 0px 5px!important;
+}
+
+.sub-tab-indication td {
+    height: 12px;
+
+    padding-bottom: 20px !important;
+}
+
+.input-group {
+  margin-bottom: 40px;
+}
